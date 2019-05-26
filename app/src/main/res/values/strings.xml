@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">دژ</string>
+    <string name="plain_text">متن ساده</string>
+    <string name="secret_key">کلید امنیتی (۸ واژه)</string>
+    <string name="encrypted_text">متن رمزنگاری‌شده</string>
+    <string name="delete">پا‌ک‌کردن</string>
+    <string name="copy">کپی‌کردن</string>
+    <string name="decrypt">رمزگشایی</string>
+    <string name="encrypt">رمزنگاری</string>
+    <string name="copyright">ابزار الگوریتم رمزنگاری متن‌باز نوشته‌شده توسط </string>
+    <string name="developer">علیرضا ایوز</string>
+    <string name="ok">باشه</string>
+    <string name="splash">رمزنگاری متن، آسون‌تر از آب‌خوردن!</string>
+    <string name="zero">۰</string>
+</resources>
