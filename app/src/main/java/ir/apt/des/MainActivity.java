@@ -182,7 +182,7 @@ public class MainActivity extends Activity {
         credit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String url = "https://www.alirezaivaz.ir/";
+                String url = "https://alirezaivaz.ir/";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);
